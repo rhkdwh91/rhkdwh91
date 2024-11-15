@@ -1,4 +1,4 @@
-<h2>FrontEnd Developer 조광연</h2>
+<h2>Frontend Developer 조광연</h2>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
